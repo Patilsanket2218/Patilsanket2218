@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#FF6F61; background-image: linear-gradient(to right, #FF6F61, #FFC371); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Vighnesh Parab</span></h1>
+  <h1>✨ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#FF6F61; background-image: linear-gradient(to right, #FF6F61, #FFC371); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sanket Patil</span></h1>
   
   <p><strong>🔧 Full Stack Architect | MERN Specialist | Digital Craftsman</strong></p>
   

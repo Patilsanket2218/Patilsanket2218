@@ -1,7 +1,7 @@
 <div align="center">
   <h1>✨ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#FF6F61; background-image: linear-gradient(to right, #FF6F61, #FFC371); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sanket Patil</span></h1>
   
-  <p><strong>🔧 Full Stack Architect | MERN Specialist | Digital Craftsman</strong></p>
+  <p><strong>🔧 Full Stack Architect | Ethical Hacker | Digital Craftsman</strong></p>
   
   <img src="https://i.pinimg.com/736x/50/84/00/5084009d77412782eaf2443820759467.jpg" width="300" alt="Coding GIF" />
   
@@ -10,19 +10,29 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Full Stack Developer | MERN Specialist**
+🚀 **Software Developer | Mobile Application Developer**
 
-I’m passionate about building scalable, user-friendly, and modern web applications.  
-From **frontend design** (HTML, CSS, Bootstrap, Tailwind, React)  
-to **backend architecture** (Node.js, Express.js, PHP, Redis, MongoDB),  
-I love transforming ideas into functional digital solutions.  
+I am a passionate Software Developer and Mobile Application Developer focused on building intuitive, high-performance, and scalable digital experiences.
+With strong expertise in both web and mobile app development, I bridge the gap between beautiful UI and powerful backend systems.
 
-💡 Skilled in multiple programming languages including **C, C++, JavaScript, and Python**,  
-I bring flexibility and depth to any project—whether it’s crafting clean UI,  
-developing robust APIs, or optimizing database performance.  
+💻 Frontend & Mobile Expertise:
+HTML, CSS, Tailwind, React, Angular, Ionic, JavaScript, and TypeScript —
+I love creating clean, responsive, and smooth user interfaces across web and mobile platforms.
 
-✨ Always eager to explore new technologies, solve real-world problems, and write clean, maintainable code.  
-When I’m not coding, you’ll find me learning, experimenting, or building side projects.  
+⚙️ Backend & Server-Side Skills:
+Node.js, Express.js, PHP, CodeIgniter, Redis, MongoDB, MySQL —
+I enjoy designing REST APIs, structuring robust architectures, and optimizing performance.
+
+🔧 Programming Languages:
+C, C++, JavaScript, Python
+— giving me a strong foundation in logical thinking, problem-solving, and efficient coding practices.
+
+📱 Mobile Application Development:
+Experienced in building hybrid mobile applications using Ionic + Angular,
+focusing on speed, usability, offline support, and seamless user experiences.
+
+✨ I’m always excited to explore new technologies, solve real-world challenges, and build projects that make an impact.
+When I’m not coding, I’m learning, experimenting, or turning new ideas into functional products.  
 
 ---
 
@@ -45,6 +55,9 @@ When I’m not coding, you’ll find me learning, experimenting, or building sid
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -58,6 +71,8 @@ When I’m not coding, you’ll find me learning, experimenting, or building sid
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       </div>
     </td>
   </tr>
@@ -84,18 +99,20 @@ When I’m not coding, you’ll find me learning, experimenting, or building sid
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">RecipeBox</h3>
+      <h3 align="center">Artisans</h3>
       <div align="center">
         <a href="https://github.com/yourusername/recipebox" target="_blank">
-          <img src="https://dummyimage.com/600x400/FF6F61/ffffff&text=RecipeBox" width="100%" alt="RecipeBox"/>
+          <img src="https://dummyimage.com/600x400/FF6F61/ffffff&text=Artisans" width="100%" alt="Artisans"/>
         </a>
-        <p><strong>A recipe management and discovery platform</strong></p>
-        <p>RecipeBox helps users discover, organize, and share recipes. Features include: recipe collections, ingredient search, favorites, and responsive design powered by Bootstrap.</p>
+        <p><strong>Artisans: Global Handcrafted Goods Marketplace</strong></p>
+        <p>Artisans Marketplace connects skilled artisans with customers worldwide.  
+          Features include: product listings, artisan profiles, secure checkout, 
+          reviews, wishlist, order tracking, and a modern responsive UI.</p>
         <div align="center">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         </div>
       </div>
     </td>

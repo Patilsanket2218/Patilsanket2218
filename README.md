@@ -38,7 +38,7 @@ When I’m not coding, I’m learning, experimenting, or turning new ideas into 
 
 ### 📫 Connect with me
 - 📸 Instagram: [@patilsanket_2812](https://www.instagram.com/patilsanket_2812?igsh=a3hndG8wZjYyZnkw)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: https://github.com/Patilsanket2218/Patilsanket2218
 - 📧 Email: sp5768528@gmail.com
 
 ## 🛠️ **Tech Artistry**
